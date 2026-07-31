@@ -11,7 +11,8 @@ Currently focused on developing scalable AI systems using Python, FastAPI, LangG
 Currently working on: 
 
 Building AI-powered learning solutions for MedPathos, a medical education platform for students.
-Link :[https://medpathos-app.vercel.app/]
+
+[Link](https://medpathos-app.vercel.app/)
 
 ---
 
