@@ -11,32 +11,9 @@ Currently focused on developing scalable AI systems using Python, FastAPI, LangG
 Currently working on: 
 
 Building AI-powered learning solutions for MedPathos, a medical education platform for students.
-[https://medpathos-app.vercel.app/]
+Link :[https://medpathos-app.vercel.app/]
 
 ---
-
-## ⚡ Tech Stack
-
-### Languages
-
-Python • SQL • JavaScript 
-
-### AI/ML
-
-PyTorch • Transformers • Hugging Face • LangChain • LangGraph • n8n  • Ollama
-
-### Backend
-
-FastAPI  • REST APIs
-
-### Databases
-
-PostgreSQL • MongoDB • ChromaDB • FAISS • Pinecone
-
-
----
-
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
